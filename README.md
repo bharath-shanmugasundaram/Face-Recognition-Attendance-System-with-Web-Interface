@@ -43,7 +43,7 @@ File Structure
 - source_image/: Folder containing images of individuals for face recognition.
 
 Contributors
-- bharath_shanmugasundaram
+- bharath-shanmugasundaram
 
 License
 This project is licensed under the MIT License.
